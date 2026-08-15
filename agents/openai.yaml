@@ -1,0 +1,4 @@
+interface:
+  display_name: "古风古建 BGM 作曲助手"
+  short_description: "把古建漫游画面需求变成 Suno 古风纯音乐提示词"
+  default_prompt: "Use $gufeng-bgm-composer to create a guofeng ambient BGM prompt for ancient architecture."
